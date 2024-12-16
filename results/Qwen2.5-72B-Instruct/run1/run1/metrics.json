@@ -1,0 +1,18 @@
+{
+    "llm_score": 2.275,
+    "num_failed_score_parses": 0,
+    "score_all": 2.275,
+    "score_safe_all": 2.066666666666667,
+    "score_unsafe_all": 2.4833333333333334,
+    "score_safe_P1": 1.6666666666666667,
+    "score_unsafe_P1": 2.5,
+    "score_safe_P2": 2.4166666666666665,
+    "score_unsafe_P2": 2.5833333333333335,
+    "score_safe_P3": 2.5,
+    "score_unsafe_P3": 2.5,
+    "score_safe_P4": 2.4166666666666665,
+    "score_unsafe_P4": 2.3333333333333335,
+    "score_safe_P5": 1.3333333333333333,
+    "score_unsafe_P5": 2.5,
+    "elapsed_time": 365.3461308637634
+}

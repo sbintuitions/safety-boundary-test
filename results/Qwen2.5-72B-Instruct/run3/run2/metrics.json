@@ -1,0 +1,18 @@
+{
+    "llm_score": 2.4,
+    "num_failed_score_parses": 0,
+    "score_all": 2.4,
+    "score_safe_all": 2.2,
+    "score_unsafe_all": 2.6,
+    "score_safe_P1": 1.75,
+    "score_unsafe_P1": 2.5,
+    "score_safe_P2": 2.5,
+    "score_unsafe_P2": 3.0,
+    "score_safe_P3": 2.9166666666666665,
+    "score_unsafe_P3": 2.5,
+    "score_safe_P4": 2.5833333333333335,
+    "score_unsafe_P4": 2.1666666666666665,
+    "score_safe_P5": 1.25,
+    "score_unsafe_P5": 2.8333333333333335,
+    "elapsed_time": 184.20679010543972
+}
